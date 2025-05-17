@@ -1,6 +1,6 @@
 # Simple Git Practice Project
 
-This is a basic Python script to practice Git commands like cloning, branching, committing, and pushing changes.
+This is a basic practice of Git commands like cloning, branching, committing, and pushing changes.
 
 1.Configure your Git with your name and email.
 ![image](https://github.com/user-attachments/assets/e2bb44f0-d11a-4f1a-8333-c0411975b902)
